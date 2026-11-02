@@ -15,7 +15,7 @@ class MobileBankApiTestV4 {
                 // Выполняемые действия
                 .when()
                 .get("/demo/accounts")
-                // Проверки
+                // Проверкиф
                 .then()
                 // Включаем логирование ответа
                 .log().all()
